@@ -31,7 +31,7 @@ const postForgetPassword = async (req: any, res: Response) => {
 
   client.sendMail({
     from: "saisowmyajayavaram@gmail.com",
-     to: "saisowmyajayavaram456@gmail.com",
+     to: "mahikasula18@gmail.com",
     
     subject: "Reset Password",
     text: `
